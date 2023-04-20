@@ -10,6 +10,6 @@ export const jwtService = {
   },
 
   verifyToken: (token: string, callbackfn: jwt.VerifyCallback) => {
-    jwt.verify(token, secret, callbackfn);
-  },
+    jwt.verify(token, secret, callbackfn)
+  }
 };
