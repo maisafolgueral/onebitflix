@@ -12,34 +12,34 @@ Tecnologias utilizadas:
 # Resultado
 
 Página de Login:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-login.png?raw=true"><br/>
 
 Página Inicial:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-home.png?raw=true"><br/>
 
 Menu de Navegação:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-menu.png?raw=true"><br/>
 
 Favoritos:
-<img src=""><br/>
-<img src=""><br/>
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-favorites-1.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-favorites-2.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-favorites-3.png?raw=true"><br/>
 
 Gostei:
-<img src=""><br/>
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-likes-1.png?raw=true"><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-likes-2.png?raw=true"><br/>
 
 Tempo assistido:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-watchtimes.png?raw=true"><br/>
 
 Categorias:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-categories.png?raw=true"><br/>
 
 Cursos:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-courses.png?raw=true"><br/>
 
 Episódios:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-episodes.png?raw=true"><br/>
 
 Usuários:
-<img src=""><br/>
+<img src="https://github.com/maisafolgueral/onebitflix-backend/blob/main/public/img/backend-users.png?raw=true"><br/>
