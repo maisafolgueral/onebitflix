@@ -1,6 +1,6 @@
 # Onebitflix - Backend
 
-Back-end do projeto desenvolvido no curso Programador Full Stack JavaScript da OneBitCode inspirado na [Netflix](https://www.netflix.com/br/). <br/>
+Back-end do projeto desenvolvido no curso Programador Full Stack JavaScript da [OneBitCode](https://pages.onebitcode.com/) inspirado na [Netflix](https://www.netflix.com/br/). <br/>
 Acesse aqui o repositório do [frontend](https://github.com/maisafolgueral/onebitflix-frontend).
 
 Tecnologias utilizadas:
